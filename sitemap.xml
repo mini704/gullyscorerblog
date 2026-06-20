@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <url>
+
+        <loc>https://gullyscorerblog.netlify.app/</loc>
+
+        <lastmod>2026-06-20</lastmod>
+
+        <changefreq>weekly</changefreq>
+
+        <priority>1.0</priority>
+
+        <image:image>
+            <image:loc>https://miro.medium.com/v2/resize:fit:720/format:webp/1*BeReysViDpr0FmaMjISMOQ.png</image:loc>
+            <image:title>Best Free Cricket Scoring App</image:title>
+            <image:caption>Gully Scorer Hero Dashboard</image:caption>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://miro.medium.com/v2/resize:fit:720/format:webp/1*kuOoSTN86RKrgG4gfMcCkg.png</image:loc>
+            <image:title>Traditional Cricket Scorebook</image:title>
+            <image:caption>Paper Cricket Scorebook</image:caption>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://miro.medium.com/v2/resize:fit:720/format:webp/1*JolMoSlVTTy64z1EYD4eag.png</image:loc>
+            <image:title>Live Cricket Scoring Dashboard</image:title>
+            <image:caption>Real-time Cricket Scoring</image:caption>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://miro.medium.com/v2/resize:fit:720/format:webp/1*WHdcY_q9DvoaI-l1gglBLg.png</image:loc>
+            <image:title>Team Management</image:title>
+            <image:caption>Create and Manage Cricket Teams</image:caption>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://miro.medium.com/v2/resize:fit:720/format:webp/1*SnuBDHDCpvTTKFQIheOdcw.png</image:loc>
+            <image:title>DLS Calculator</image:title>
+            <image:caption>Duckworth Lewis Stern Calculator</image:caption>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://miro.medium.com/v2/resize:fit:720/format:webp/1*b9BZAZ5h5zlkqE4kI8Tb2Q.png</image:loc>
+            <image:title>Match History</image:title>
+            <image:caption>Player Match Statistics</image:caption>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://miro.medium.com/v2/resize:fit:720/format:webp/1*ohM8ZLlEbzPzf6BiGoqFBQ.png</image:loc>
+            <image:title>Future of Gully Cricket</image:title>
+            <image:caption>Digital Cricket Technology</image:caption>
+        </image:image>
+
+    </url>
+
+    <url>
+        <loc>https://gullyscorerblog.netlify.app/about</loc>
+        <lastmod>2026-06-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://gullyscorerblog.netlify.app/contact</loc>
+        <lastmod>2026-06-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://gullyscorerblog.netlify.app/privacy-policy</loc>
+        <lastmod>2026-06-20</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://gullyscorerblog.netlify.app/terms</loc>
+        <lastmod>2026-06-20</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+</urlset>

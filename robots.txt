@@ -1,0 +1,30 @@
+# ===================================================
+# Gully Scorer Blog
+# https://gullyscorerblog.netlify.app
+# ===================================================
+
+User-agent: *
+
+Allow: /
+
+# Allow important assets
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.webp$
+Allow: /*.svg$
+
+# Block unnecessary files
+Disallow: /.git/
+Disallow: /node_modules/
+Disallow: /README.md
+Disallow: /*.map$
+Disallow: /*.log$
+Disallow: /*?*
+
+# Sitemap
+Sitemap: https://gullyscorerblog.netlify.app/sitemap.xml
+
+Host: https://gullyscorerblog.netlify.app
